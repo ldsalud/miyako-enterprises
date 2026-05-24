@@ -222,7 +222,7 @@ npm run deploy
 **GitHub:** [@ldsalud](https://github.com/ldsalud)  
 **Repo:** [Miyako Enterprises](https://github.com/ldsalud/miyako-enterprises)   
 **Live Site:** https://miyako-enterprises.com  
-**Repository:** Private
+**Repository:** Public
 
 ---
 
